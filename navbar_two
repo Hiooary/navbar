@@ -1,0 +1,94 @@
+<nav class="navbar navbar-default navbar-inverse" role="navigation">
+    <div class="collapse navbar-collapse">
+        <a class="navbar-brand" href="#">首页</a>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">第二页</a></li>
+            <li><a href="#">第三页</a></li>
+            <li><a href="#">第四页</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="navbar navbar-default" role="navigation" >
+    <div class="navbar-header">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">首页</a> </li>
+            <li><a href="#">第二页</a> </li>
+            <li><a href="#">第三页</a> </li>
+
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">控制面板
+                    <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">删除</a> </li>
+                    <li><a href="#">修改</a> </li>
+                    <li><a href="#">增加</a> </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="nav nav-default nav-static-top">
+    <div class="container">
+        <div class="nav-header">
+            <a class="nav-brand" href="#">&nbsp;&nbsp;<i class="icon-shopping-cart "></i>  赶集网   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav nav-pills">
+                <li class="active"><a href="#">首页</a></li>
+                <li><a href="#about">Products</a></li>
+                <li><a href="#contact">Services</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">More... <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Support Ticket</a></li>
+                        <li><a href="#">Knoledge Base</a></li>
+                        <li class="divider"></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contributions</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div>
+ <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Follow Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+</div>
+
+<div class="wrapper"  style="margin-left:120px">
+<h1>air line</h1>
+<nav id="top_nav">,,,,</nav>
+
+<ul>
+     <li><a href="#">Home</a></li>
+     <li><a href="#">News</a></li>
+     <li><a href="#">Contact</a></li>
+     <li><a href="#">About</a></li>
+</ul>
+
+<ul class="ul_2 ">
+<!--链接样式中的display:block,用float:left浮动-->
+<li class="li_2"><a href="#">Home</a></li>
+<li class="li_2"><a href="#">News</a></li>
+<li class="li_2"><a href="#">Contact</a></li>
+<li class="li_2"><a href="#">About</a></li>
+</ul>
+</div>
+
+<div>
+    <!--图集功能没有实现-->
+    <hr/>
+    <ul class="thumbnails">
+        <li class="span6"><a class="thumbnail" href="#"><img src="XXX.jpg/520*280" alt=" "/> </a></li>
+        <li class="span6"><a class="thumbnail" href="#"><img src="XXX.jpg/520*180" alt=" "/> </a></li>
+        <li class="span3"><a class="thumbnail" href="#"><img src="XX.jpg/260*180" alt=" "/> </a></li>
+        <li class="span3"><a class="thumbnail" href="#"><img src="XXXX.jpg/260*180" alt=" "/> </a></li>
+    </ul>
+</div>
