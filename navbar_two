@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-default navbar-inverse" role="navigation">
     <div class="collapse navbar-collapse">
         <a class="navbar-brand" href="#">首页</a>
@@ -82,13 +83,3 @@
 </ul>
 </div>
 
-<div>
-    <!--图集功能没有实现-->
-    <hr/>
-    <ul class="thumbnails">
-        <li class="span6"><a class="thumbnail" href="#"><img src="XXX.jpg/520*280" alt=" "/> </a></li>
-        <li class="span6"><a class="thumbnail" href="#"><img src="XXX.jpg/520*180" alt=" "/> </a></li>
-        <li class="span3"><a class="thumbnail" href="#"><img src="XX.jpg/260*180" alt=" "/> </a></li>
-        <li class="span3"><a class="thumbnail" href="#"><img src="XXXX.jpg/260*180" alt=" "/> </a></li>
-    </ul>
-</div>
